@@ -1,0 +1,18 @@
+{
+  "name": "DOG Tracker",
+  "identifier": "it.lk.dogtracker.source",
+  "subtitle": "DOG Tracker Official Source",
+  "description": "Official DOG Tracker source for AltStore and SideStore.",
+  "apps": [
+    {
+      "name": "DOG Tracker",
+      "bundleIdentifier": "it.lk.dogtracker",
+      "developerName": "userspacetec",
+      "subtitle": "DOG Tracker for iPhone",
+      "version": "1.0",
+      "versionDate": "2026-09-09T00:00:00Z",
+      "downloadURL": "https://github.com/userspacetec/DOGTracker/releases/latest/download/DOGTracker.ipa",
+      "versionDescription": "Version 1.0 (Build 3), minimum iOS 14.4."
+    }
+  ]
+}
