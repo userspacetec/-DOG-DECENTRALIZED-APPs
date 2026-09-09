@@ -17,6 +17,9 @@ Official repository for **$DOG Tracker** (iPhone) and **$DOGTV** (Samsung/Tizen)
 
 Install with **AltStore**. 
 
+Usage:
+Open TradingView Chart by Tap price and Tap DOG News for last news by website [doggotothemoon.io](https://doggotothemoon.io/blog/) and DOG Info for related info fetched from same website.
+
 ### 📺 $DOGTV — Samsung/Tizen
 - File: `DOGTV.wgt`
 - Version: `1`
@@ -25,6 +28,10 @@ Install with **AltStore**.
 [Download DOGTV.wgt](https://github.com/userspacetec/-DOG-DECENTRALIZED-APPs/releases/latest/download/DOGTV.wgt)
 
 Install with **Apps2Samsung** with Developer Mode enabled.
+A navigation system in focus (highlighted with orange halo) on everything that is interactive: search bar, the 6 timeframe buttons, each market in the list, the search results.
+
+Usage:
+◄►▲▼ move the focus and zoom, OK/Send confirmation/, Back🔙 exit zones/exits typing/exit app 
 
 ⸻
 
