@@ -1,13 +1,13 @@
 ## Preview
 
 ![Preview](assets/IMG_0294.jpeg)
-# 🐕 DOG Tracker
+# 🐕 $DOG Tracker
 
-Official repository for **DOG Tracker** (iPhone) and **DOGTV** (Samsung/Tizen).
+Official repository for **$DOG Tracker** (iPhone) and **$DOGTV** (Samsung/Tizen).
 
 ## Downloads
 
-### 📱 DOG Tracker — iPhone
+### 📱 $DOG Tracker — iPhone
 - Bundle ID: `it.lk.dogtracker`
 - Version: `1.0`
 - Build: `3`
@@ -15,9 +15,9 @@ Official repository for **DOG Tracker** (iPhone) and **DOGTV** (Samsung/Tizen).
 
 [Download DOGTracker.ipa](https://github.com/userspacetec/-DOG-DECENTRALIZED-APPs/releases/latest/download/DOGTracker.ipa)
 
-Install with **SideStore** or **AltStore**.
+Install with **AltStore**. 
 
-### 📺 DOGTV — Samsung/Tizen
+### 📺 $DOGTV — Samsung/Tizen
 - File: `DOGTV.wgt`
 - Version: `1`
 - Build: none
@@ -26,23 +26,68 @@ Install with **SideStore** or **AltStore**.
 
 Install with **Apps2Samsung** with Developer Mode enabled.
 
-## Release files
+📥 Required Tools
 
-Create a GitHub Release such as `v1.0` and upload exactly:
+🍎 iOS — AltStore
 
-```text
-DOGTracker.ipa
-DOGTV.wgt
-```
+To install and sideload the iOS application, you can use AltStore.
 
-Do not rename or modify the WGT.
+👉 Download AltStore
 
-## SideStore AltSource
+AltStore is an independent sideloading platform for iOS. Please download AltStore only from its official website.
 
-AltSource URL:
+Disclaimer:
+This project is not affiliated with, endorsed by, sponsored by, or associated with AltStore LLC or Apple Inc.
+AltStore is a third-party application used for sideloading.
+Please refer to the official AltStore documentation for installation requirements and supported devices.
 
-`https://raw.githubusercontent.com/userspacetec/-DOG-DECENTRALIZED-APPs/main/altstore-source.json`
+⸻
 
-Add to SideStore:
+📺 Samsung / Tizen — Apps2Samsung
 
-`sidestore://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fuserspacetec%2-DOG-DECENTRALIZED-APPs%2Fmain%2Faltstore-source.json`
+For Samsung Smart TVs and Tizen devices, you can use Apps2Samsung to sideload compatible applications.
+
+👉 Download Apps2Samsung
+👉 Apps2Samsung on GitHub
+
+Apps2Samsung is a free and open-source tool that uses Samsung’s developer/sideloading mechanism to install applications on compatible Samsung TVs and Tizen devices.
+
+❤️ Community & Inspiration
+
+This project is an independent community-driven project created solely for the $DOG / Bitcoin community.
+
+I am not affiliated with, associated with, endorsed by, sponsored by, or officially connected to any company, organization, developer, project, collection, or individual mentioned throughout this repository, unless explicitly stated otherwise.
+
+The applications and tools created here are made for the community, by the community, with the goal of experimenting, creating, and contributing something useful and enjoyable to the Bitcoin ecosystem.
+
+🪨 Special Thanks
+
+A special THANK YOU to @LeonidasNFT for the Runestone and $DOG Airdrop received. ❤️
+
+I am deeply grateful for the opportunity to be part of this ecosystem and for the inspiration it continues to provide.
+
+This project is deeply inspired by @LeonidasNFT on X and his work, vision, and contribution to the Ordinals, Runes and Bitcoin community.
+
+Thank you to everyone building, creating, and supporting the community. 🧡
+
+Built independently.
+Inspired by Bitcoin.
+Made for the $DOG community. 🐕₿
+
+Disclaimer:
+This project is not affiliated with, endorsed by, sponsored by, or associated with Samsung Electronics Co., Ltd.
+Apps2Samsung is an independent open-source project and does not modify or jailbreak Samsung TV firmware.
+Samsung, Tizen and related trademarks belong to their respective owners.
+
+⸻
+
+⚠️ General Disclaimer
+
+The tools mentioned above are third-party software and are not part of this project.
+
+This project does not distribute, modify, or claim ownership of AltStore, Apps2Samsung, Apple, Samsung, or Tizen.
+
+Users are responsible for complying with the terms of service, software licenses, device requirements, and applicable laws when using third-party sideloading tools.
+
+Use these tools at your own risk.
+  
