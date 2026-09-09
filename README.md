@@ -48,6 +48,7 @@ Please refer to the official AltStore documentation for installation requirement
 For Samsung Smart TVs and Tizen devices, you can use Apps2Samsung to sideload compatible applications.
 
 👉 Download [Apps2Samsung](https://apps2samsung.com)
+
 👉 Github [Apps2Samsung](https://github.com/Apps2Samsung/Apps2Samsung) 
 
 Apps2Samsung is a free and open-source tool that uses Samsung’s developer/sideloading mechanism to install applications on compatible Samsung TVs and Tizen devices.
