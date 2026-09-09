@@ -10,7 +10,7 @@ Official repository for **DOG Tracker** (iPhone) and **DOGTV** (Samsung/Tizen).
 - Build: `3`
 - Minimum iOS: `14.4`
 
-[Download DOGTracker.ipa](https://github.com/userspacetec/DOG-DECENTRALIZED-APPs/releases/latest/download/DOGTracker.ipa)
+[Download DOGTracker.ipa](https://github.com/userspacetec/-DOG-DECENTRALIZED-APPs/releases/latest/download/DOGTracker.ipa)
 
 Install with **SideStore** or **AltStore**.
 
@@ -19,7 +19,7 @@ Install with **SideStore** or **AltStore**.
 - Version: `1`
 - Build: none
 
-[Download DOGTV.wgt](https://github.com/userspacetec/DOG-DECENTRALIZED-APPs/releases/latest/download/DOGTV.wgt)
+[Download DOGTV.wgt](https://github.com/userspacetec/-DOG-DECENTRALIZED-APPs/releases/latest/download/DOGTV.wgt)
 
 Install with **Apps2Samsung** with Developer Mode enabled.
 
@@ -38,8 +38,8 @@ Do not rename or modify the WGT.
 
 AltSource URL:
 
-`https://raw.githubusercontent.com/userspacetec/DOGTracker/main/altstore-source.json`
+`https://raw.githubusercontent.com/userspacetec/-DOG-DECENTRALIZED-APPs/main/altstore-source.json`
 
 Add to SideStore:
 
-`sidestore://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fuserspacetec%2FDOGTracker%2Fmain%2Faltstore-source.json`
+`sidestore://source?url=https%3A%2F%2Fraw.githubusercontent.com%2Fuserspacetec%2-DOG-DECENTRALIZED-APPs%2Fmain%2Faltstore-source.json`
