@@ -84,11 +84,11 @@ The applications and tools created here are made for the community, by the commu
 
 🪨 Special Thanks
 
-A special THANK YOU to @LeonidasNFT for the Runestone and $DOG Airdrop received. ❤️
+A special THANK YOU to [@LeonidasNFT](https://x.com/leonidasnft) for the Runestone and $DOG Airdrop received and [@rodarmor](https://x.com/rodarmor) ❤️
 
 I am deeply grateful for the opportunity to be part of this ecosystem and for the inspiration it continues to provide.
 
-This project is deeply inspired by @LeonidasNFT on X and his work, vision, and contribution to the Ordinals, Runes and Bitcoin community.
+This project is deeply inspired by [@LeonidasNFT](https://x.com/leonidasnft) on X and his work, vision, and contribution to the Ordinals, Runes and Bitcoin community.
 
 Thank you to everyone building, creating, and supporting the community. 🧡
 
