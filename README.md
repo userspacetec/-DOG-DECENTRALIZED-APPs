@@ -26,6 +26,8 @@ Install with **AltStore**.
 
 Install with **Apps2Samsung** with Developer Mode enabled.
 
+⸻
+
 📥 Required Tools
 
 🍎 iOS — AltStore
@@ -53,14 +55,12 @@ For Samsung Smart TVs and Tizen devices, you can use Apps2Samsung to sideload co
 
 Apps2Samsung is a free and open-source tool that uses Samsung’s developer/sideloading mechanism to install applications on compatible Samsung TVs and Tizen devices.
 
-Disclaimer:
+⸻
+
+⚠️ Disclaimer:
 This project is not affiliated with, endorsed by, sponsored by, or associated with Samsung Electronics Co., Ltd.
 Apps2Samsung is an independent open-source project and does not modify or jailbreak Samsung TV firmware.
 Samsung, Tizen and related trademarks belong to their respective owners.
-
-⸻
-
-⚠️ General Disclaimer
 
 The tools mentioned above are third-party software and are not part of this project.
 
