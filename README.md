@@ -32,7 +32,7 @@ Install with **Apps2Samsung** with Developer Mode enabled.
 
 To install and sideload the iOS application, you can use AltStore.
 
-👉 Download AltStore
+👉 Download [AltStore](https://altstore.io)
 
 AltStore is an independent sideloading platform for iOS. Please download AltStore only from its official website.
 
@@ -47,32 +47,10 @@ Please refer to the official AltStore documentation for installation requirement
 
 For Samsung Smart TVs and Tizen devices, you can use Apps2Samsung to sideload compatible applications.
 
-👉 Download Apps2Samsung
-👉 Apps2Samsung on GitHub
+👉 Download [Apps2Samsung](https://apps2samsung.com)
+👉 Github [Apps2Samsung](https://github.com/Apps2Samsung/Apps2Samsung) 
 
 Apps2Samsung is a free and open-source tool that uses Samsung’s developer/sideloading mechanism to install applications on compatible Samsung TVs and Tizen devices.
-
-❤️ Community & Inspiration
-
-This project is an independent community-driven project created solely for the $DOG / Bitcoin community.
-
-I am not affiliated with, associated with, endorsed by, sponsored by, or officially connected to any company, organization, developer, project, collection, or individual mentioned throughout this repository, unless explicitly stated otherwise.
-
-The applications and tools created here are made for the community, by the community, with the goal of experimenting, creating, and contributing something useful and enjoyable to the Bitcoin ecosystem.
-
-🪨 Special Thanks
-
-A special THANK YOU to @LeonidasNFT for the Runestone and $DOG Airdrop received. ❤️
-
-I am deeply grateful for the opportunity to be part of this ecosystem and for the inspiration it continues to provide.
-
-This project is deeply inspired by @LeonidasNFT on X and his work, vision, and contribution to the Ordinals, Runes and Bitcoin community.
-
-Thank you to everyone building, creating, and supporting the community. 🧡
-
-Built independently.
-Inspired by Bitcoin.
-Made for the $DOG community. 🐕₿
 
 Disclaimer:
 This project is not affiliated with, endorsed by, sponsored by, or associated with Samsung Electronics Co., Ltd.
@@ -90,4 +68,29 @@ This project does not distribute, modify, or claim ownership of AltStore, Apps2S
 Users are responsible for complying with the terms of service, software licenses, device requirements, and applicable laws when using third-party sideloading tools.
 
 Use these tools at your own risk.
-  
+
+⸻
+
+❤️ Community & Inspiration
+
+This project is an independent community-driven project created solely for the $DOG / Bitcoin community.
+
+I am not affiliated with, associated with, endorsed by, sponsored by, or officially connected to any company, organization, developer, project, collection, or individual mentioned throughout this repository, unless explicitly stated otherwise.
+
+The applications and tools created here are made for the community, by the community, with the goal of experimenting, creating, and contributing something useful and enjoyable to the Bitcoin ecosystem.
+
+⸻
+
+🪨 Special Thanks
+
+A special THANK YOU to @LeonidasNFT for the Runestone and $DOG Airdrop received. ❤️
+
+I am deeply grateful for the opportunity to be part of this ecosystem and for the inspiration it continues to provide.
+
+This project is deeply inspired by @LeonidasNFT on X and his work, vision, and contribution to the Ordinals, Runes and Bitcoin community.
+
+Thank you to everyone building, creating, and supporting the community. 🧡
+
+Built independently.
+Inspired by Bitcoin.
+Made for the $DOG community. 🐕₿
