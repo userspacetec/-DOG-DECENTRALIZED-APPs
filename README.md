@@ -10,7 +10,7 @@ Official repository for **DOG Tracker** (iPhone) and **DOGTV** (Samsung/Tizen).
 - Build: `3`
 - Minimum iOS: `14.4`
 
-[Download DOGTracker.ipa](https://github.com/userspacetec/DOGTracker/releases/latest/download/DOGTracker.ipa)
+[Download DOGTracker.ipa](https://github.com/userspacetec/DOG-DECENTRALIZED-APPs/releases/latest/download/DOGTracker.ipa)
 
 Install with **SideStore** or **AltStore**.
 
@@ -19,7 +19,7 @@ Install with **SideStore** or **AltStore**.
 - Version: `1`
 - Build: none
 
-[Download DOGTV.wgt](https://github.com/userspacetec/DOGTracker/releases/latest/download/DOGTV.wgt)
+[Download DOGTV.wgt](https://github.com/userspacetec/DOG-DECENTRALIZED-APPs/releases/latest/download/DOGTV.wgt)
 
 Install with **Apps2Samsung** with Developer Mode enabled.
 
