@@ -84,7 +84,9 @@ The applications and tools created here are made for the community, by the commu
 
 🪨 Special Thanks
 
-A special THANK YOU to [@LeonidasNFT](https://x.com/leonidasnft) for the Runestone and $DOG Airdrop received and [@rodarmor](https://x.com/rodarmor) ❤️
+A special ❤️ THANK YOU to [@LeonidasNFT](https://x.com/leonidasnft) for the Runestone and $DOG Airdrop received and [@rodarmor](https://x.com/rodarmor) for made it possibile on block 840.000 launched the Runes protocol, introducing a new fungible-token protocol for Bitcoin and helping establish the broader Runes ecosystem.
+
+The launch was intentionally aligned with Bitcoin’s fourth halving, making block 840,000 a significant milestone for both Bitcoin and the Runes community.
 
 I am deeply grateful for the opportunity to be part of this ecosystem and for the inspiration it continues to provide.
 
