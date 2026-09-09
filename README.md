@@ -1,6 +1,6 @@
 ## Preview
 
-![Preview](assets/preview.png)
+![Preview](assets/IMG_0294.jpeg)
 # 🐕 DOG Tracker
 
 Official repository for **DOG Tracker** (iPhone) and **DOGTV** (Samsung/Tizen).
