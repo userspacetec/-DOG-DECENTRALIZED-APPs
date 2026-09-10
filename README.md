@@ -40,7 +40,7 @@ Usage:
 
 🍎 iOS — AltStore
 
-To install and sideload the iOS application, you can use AltStore.
+To install and sideload the iOS application, you can use AltStore or Sideloadly
 
 👉 Download [AltStore](https://altstore.io)
 
