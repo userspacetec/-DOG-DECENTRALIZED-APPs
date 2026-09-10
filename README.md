@@ -15,10 +15,11 @@ Official repository for **$DOG Tracker** (iPhone) and **$DOGTV** (Samsung/Tizen)
 
 [Download DOGTracker.ipa](https://github.com/userspacetec/-DOG-DECENTRALIZED-APPs/releases/latest/download/DOGTracker.ipa)
 
-Install with **AltStore**. 
-
+Install with [AltStore](https://altstore.io)
+or with [Sideloadly](https://sideloadly.io) 
+all 2 app require to activate developer mode for install e test app  
 Usage:
-Open TradingView Chart by Tap price and Tap DOG News for last news by website [doggotothemoon.io](https://doggotothemoon.io/blog/) and DOG Info for related info fetched from same website.
+Open TradingView Chart by Tap price and Tap DOG News for last news and DOG Info by the website [doggotothemoon.io](https://doggotothemoon.io) ( Thanks ❤️ to the team of doggotothemoon.io) 
 
 ### 📺 $DOGTV — Samsung/Tizen
 - File: `DOGTV.wgt`
@@ -27,7 +28,7 @@ Open TradingView Chart by Tap price and Tap DOG News for last news by website [d
 
 [Download DOGTV.wgt](https://github.com/userspacetec/-DOG-DECENTRALIZED-APPs/releases/latest/download/DOGTV.wgt)
 
-Install with **Apps2Samsung** with Developer Mode enabled.
+Install with **[Apps2Samsung](https://apps2samsung.com)** with Developer Mode enabled.
 A navigation system in focus (highlighted with orange halo) on everything that is interactive: search bar, the 6 timeframe buttons, each market in the list, the search results.
 
 Usage:
@@ -42,6 +43,8 @@ Usage:
 To install and sideload the iOS application, you can use AltStore.
 
 👉 Download [AltStore](https://altstore.io)
+
+👉 Download [Sidestore](https://sideloadly.io)
 
 AltStore is an independent sideloading platform for iOS. Please download AltStore only from its official website.
 
